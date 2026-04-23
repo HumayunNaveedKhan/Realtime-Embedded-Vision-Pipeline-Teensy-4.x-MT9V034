@@ -124,6 +124,8 @@ bottleneck is USB throughput, not the MCU or FlexIO engine.
 | Host stream | USB Serial — framed protocol |
 | Visualisation | Python 3 — pyserial + NumPy + OpenCV |
 
+<img width="400" height="300" alt="Teensy-cam5" src="https://github.com/user-attachments/assets/a39729c0-00c8-4a18-9389-fa54446418f2" />
+<img width="400" height="300" alt="Teensy-cam3" src="https://github.com/user-attachments/assets/f549a5a8-cae7-42d4-9ff3-31f3757ab4e8" />
 ---
 
 ## Source Code
@@ -167,8 +169,6 @@ bottleneck is USB throughput, not the MCU or FlexIO engine.
 
 ## Deployment
 
-<img width="400" height="300" alt="Teensy-cam5" src="https://github.com/user-attachments/assets/a39729c0-00c8-4a18-9389-fa54446418f2" />
-<img width="400" height="300" alt="Teensy-cam3" src="https://github.com/user-attachments/assets/f549a5a8-cae7-42d4-9ff3-31f3757ab4e8" />
 <img width="600" height="800" alt="Teensy-cam4" src="https://github.com/user-attachments/assets/c9e7a011-3b68-43d5-a0ab-f89052c5c23b" />
 
 
@@ -224,6 +224,4 @@ Co-Founder, Haptronica & RobAutoStem (NIC Karachi, Cohort 12)
 
 © 2025 Humayun Khan. All rights reserved.  
 No part of this repository may be reproduced or used
-commercially without written permission.
-No part of this repository may be reproduced or used 
 commercially without written permission.
