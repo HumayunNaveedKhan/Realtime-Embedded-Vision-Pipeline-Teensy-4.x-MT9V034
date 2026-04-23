@@ -17,7 +17,7 @@ robotics and industrial inspection applications.
 
 Designed and validated as an independent embedded vision
 consultancy engagement. The pipeline was tested on a
-**Denso VS-6577 robotic arm end-effector** at HHRCM Lab,
+**Custom-built robotic arm end-effector** at HHRCM Lab,
 NCRA-NEDUET to validate real-world integration.
 
 **Author:** Humayun Khan — Embedded Vision Consultant  
@@ -124,9 +124,10 @@ bottleneck is USB throughput, not the MCU or FlexIO engine.
 | Host stream | USB Serial — framed protocol |
 | Visualisation | Python 3 — pyserial + NumPy + OpenCV |
 
+
+---
 <img width="400" height="300" alt="Teensy-cam5" src="https://github.com/user-attachments/assets/a39729c0-00c8-4a18-9389-fa54446418f2" />
 <img width="400" height="300" alt="Teensy-cam3" src="https://github.com/user-attachments/assets/f549a5a8-cae7-42d4-9ff3-31f3757ab4e8" />
----
 
 ## Source Code
 
@@ -179,7 +180,7 @@ target FPS during arm motion.
 
 
 > 📌 This was a feasibility and benchmarking study.
-> Results are from DevOps testing.
+> Results are from development and testing.
 > Client application details are confidential.
 
 ---
