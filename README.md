@@ -180,7 +180,7 @@ target FPS during arm motion.
 
 
 > 📌 This was a feasibility and benchmarking study.
-> Results are from development and testing.
+> Results are from lab testing.
 > Client application details are confidential.
 
 ---
